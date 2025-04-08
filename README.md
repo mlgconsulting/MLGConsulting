@@ -1,16 +1,29 @@
-## Hi there 👋
+# MICHEL LAVOIE GAGNON CONSULTING
 
-<!--
-**mlgconsulting/MLGConsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official website repository for **Michel Lavoie Gagnon Consulting**.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Michel Lavoie Gagnon Consulting provides tailored strategic consulting services with a focus on:
+- Bilingual communication (English & French)
+- Professional development and career coaching
+- Workplace mental wellness
+- Strategic planning for individuals and organizations
+
+Our mission is to support growth, clarity, and confidence—both personally and professionally.
+
+## Project Overview
+
+This repository contains the code for the static website, built with HTML and CSS, and intended to be hosted via GitHub Pages or any other static site host.
+
+### Features:
+- Mobile-responsive layout
+- Clean and professional design
+- Fast-loading, single-page architecture
+
+## Getting Started
+
+To view the site locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/mlg-consulting.git
