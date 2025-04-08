@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MICHEL LAVOIE GAGNON CONSULTING</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    nav {
+      background-color: #003366;
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 40px;
+    }
+    footer {
+      background-color: #004080;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+    .cta {
+      background-color: #e0ecff;
+      padding: 20px;
+      border-left: 5px solid #004080;
+      margin: 40px 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>MICHEL LAVOIE GAGNON CONSULTING</h1>
+  <p>Strategic Solutions | Bilingual Communication | Thoughtful Leadership</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>Michel Lavoie Gagnon Consulting provides tailored strategic consulting services with a focus on bilingual communication, mental wellness in the workplace, and professional development. Our mission is to help individuals and organizations move forward with clarity, confidence, and compassion.</p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Career Coaching & Personal Branding</li>
+    <li>Strategic Communication (English & French)</li>
+    <li>Workplace Mental Health Awareness & Workshops</li>
+    <li>Resume Development & Job Readiness</li>
+    <li>Leadership Coaching & Organizational Strategy</li>
+  </ul>
+</section>
+
+<section class="cta">
+  <h3>Let’s Work Together</h3>
+  <p>Whether you're an individual looking to pivot your career or an organization seeking impactful strategies, we’re here to help. Contact us to book a free discovery session.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:contact@mlgconsulting.ca">contact@mlgconsulting.ca</a></p>
+  <p>Location: Gatineau, Quebec</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Michel Lavoie Gagnon Consulting. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
